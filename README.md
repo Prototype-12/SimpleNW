@@ -13,9 +13,7 @@ to update changes/build
 
 -You will find your runable file at
 
-out/(src/package.json's name value).exe
-
-"my-nwjs-app" is default src/package.json's name value
+out/(src/package.json's name value).exe *currently out/my-nwjs-app.exe*
 
 with your icon. *default is cat.ico*
 
