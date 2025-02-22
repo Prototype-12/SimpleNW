@@ -15,6 +15,12 @@ to update changes/build
 
 out/(src/package.json's name value).exe
 
+ex.
+
+out/my-nwjs-app.exe
+
+*which is default*
+
 with your icon.
 
 -P.S. icons are finiky mine kept reseting
