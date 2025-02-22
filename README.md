@@ -16,4 +16,4 @@ out/(src/package.json's name value).exe
 with your icon.
 
 
-p.s. icons are finiky mine kept reseting
+P.S. icons are finiky mine kept reseting
