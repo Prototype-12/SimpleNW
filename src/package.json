@@ -1,0 +1,9 @@
+{
+  "name": "my-nwjs-app",
+  "version": "1.0.0",
+  "main": "index.html",
+  "devDependencies": {
+    "nw": "^0.95.0",
+    "nw-builder": "^4.13.8"
+  }
+}

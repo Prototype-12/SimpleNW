@@ -1,0 +1,1 @@
+npm init -y && npm install nw && npm install nw-builder && node build.mjs
