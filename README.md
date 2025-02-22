@@ -1,4 +1,4 @@
-#Use
+# Use
 
 run `setup.bat`
 
@@ -8,7 +8,7 @@ run `node build.mjs`
 
 to update changes/build
 
-#Note
+# Note
 -You need to have node installed
 
 -You will find your runable file at
